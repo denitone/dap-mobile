@@ -63,4 +63,4 @@ create home page "dap-mobile/app/src/main/java/com/deni/dap/home"
 # version : 0.0.6 | release date : 05/03/2023
 implement dockerize android project
 - create Dockerfile
-- crete docker-compose.yml file
+
