@@ -1,6 +1,5 @@
 ## dap-mobile
-Dockerize android project organization, this repo is an simple android app for dockerize 
-
+This repo is an android project, with docker implementation, for create an dockerimage and run to the docker container
 
 ## Spesification
 - Java 11
