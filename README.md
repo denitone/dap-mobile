@@ -1,8 +1,6 @@
 ## what is dap-mobile repo
 dap-mobile repo is an simple android project, with 2 page likes login & home page. and also this project already implement the docker for simple dev and testing the app.
-
-## Documentation
-Visit [Dockerize-android-project](https://github.com/dockerize-android-project) page, for see the all documentation
+- Visit [Dockerize-android-project](https://github.com/dockerize-android-project) page, for see the all documentation
 
 
 ## Snippet code for dockerize
